@@ -12,6 +12,7 @@ Darunter eine eigene AI-Infrastruktur, die den Laden am Laufen hält.
 ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white)
 ![GA4](https://img.shields.io/badge/-GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 ![Tag Manager](https://img.shields.io/badge/-Tag%20Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ## Woran ich baue
