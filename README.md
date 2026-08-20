@@ -1,23 +1,26 @@
-# Philipp Schneider
+# Hi, ich bin Philipp 👋
 
-B2B-Performance-Marketing als System — Google Ads, Tracking und
-Conversion-Optimierung, getragen von einer eigenen AI-Infrastruktur.
+📍 **Hachenburg** | 🧱 **Founder von [BASALTBLOCK](https://www.bblok.de)** | 🤖 **baut mit Agenten**
+
+B2B-Performance-Marketing als System: Google Ads, Tracking, Conversion-Optimierung.
+Darunter eine eigene AI-Infrastruktur, die den Laden am Laufen hält.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white)
+![GA4](https://img.shields.io/badge/-GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Tag Manager](https://img.shields.io/badge/-Tag%20Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+
+## Woran ich baue
+
+- 🧱 **[BASALTBLOCK](https://www.bblok.de)** - Performance-Marketing für B2B: Google Ads, GA4/GTM-Tracking, Conversion-Optimierung
+- 🧠 **Personal OS** - ein Markdown-Workspace als Single Source of Truth, orchestriert von Coding-Agenten: Workflows, Reporting, Automatisierung
+- 🌐 **Websites** - Next.js und Astro, eigenes Designsystem, gebaut und deployt von Agenten
+
+Fast alles davon lebt in privaten Repos. Was hier still aussieht, ist nur nicht öffentlich.
 
 **[bblok.de](https://www.bblok.de)** · [LinkedIn](https://www.linkedin.com/in/pscdr/) · [ps@bblok.de](mailto:ps@bblok.de)
-
-## Woran ich arbeite
-
-- **[BASALTBLOCK](https://www.bblok.de)** — messbare Neukundengewinnung für
-  B2B-Unternehmen: Google Ads, GA4/GTM-Tracking, Conversion-Optimierung
-- **Ein persönliches OS** — ein Markdown-Workspace als Single Source of Truth,
-  orchestriert von Coding-Agenten: Kundenakten, Workflows, Reporting und
-  die Automatisierung dahinter
-- **Websites** — Next.js- und Astro-Projekte für Kunden und die eigene
-  Plattform, mit einem selbst vermessenen Designsystem
-
-Kundenarbeit lebt in privaten Repos — was hier still aussieht, ist nur nicht
-öffentlich.
-
-## Werkzeuge
-
-TypeScript · Next.js · Astro · Python · Supabase · Google Ads & GA4 APIs · Claude Code
