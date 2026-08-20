@@ -23,4 +23,4 @@ Darunter eine eigene AI-Infrastruktur, die den Laden am Laufen hält.
 
 Fast alles davon lebt in privaten Repos. Was hier still aussieht, ist nur nicht öffentlich.
 
-**[bblok.de](https://www.bblok.de)** · [LinkedIn](https://www.linkedin.com/in/pscdr/) · [ps@bblok.de](mailto:ps@bblok.de)
+**[bblok.de](https://www.bblok.de)** · [LinkedIn](https://www.linkedin.com/in/pscdr/) · [brief@bblok.de](mailto:brief@bblok.de)
