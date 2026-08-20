@@ -3,7 +3,7 @@
 📍 **Hachenburg** | 🧱 **[BBLOK](https://www.bblok.de)** | 🤖 **baut mit Agenten**
 
 B2B-Performance-Marketing als System: Google Ads, Tracking, Conversion-Optimierung.
-Darunter eine eigene AI-Infrastruktur, die den Laden am Laufen hält.
+Basierend auf einer leichtgewichtigen AI-Infrastruktur.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -17,9 +17,9 @@ Darunter eine eigene AI-Infrastruktur, die den Laden am Laufen hält.
 
 ## Woran ich baue
 
-- 🧱 **[BASALTBLOCK](https://www.bblok.de)** - Performance-Marketing für B2B: Google Ads, GA4/GTM-Tracking, Conversion-Optimierung
-- 🧠 **_os** - ein Markdown-Workspace als Single Source of Truth, orchestriert von Coding-Agenten: Workflows, Reporting, Automatisierung
-- 🌐 **Websites** - Next.js, eigenes Designsystem, gebaut und deployt von Agenten
+- 🧱 **[BBLOK](https://www.bblok.de)** - Performance-Marketing für B2B: Google Ads, Tracking, Conversion-Optimierung
+- 🧠 **_os** - ein Markdown-Workspace als Single Source of Truth, orchestriert von Agenten
+- 🌐 **Websites** - Next.js, Design-, Copy- & Illustrationssysteme, gebaut und deployt von Agenten
 
 Fast alles davon lebt in privaten Repos. Was hier still aussieht, ist nur nicht öffentlich.
 
