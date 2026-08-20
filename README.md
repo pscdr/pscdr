@@ -1,6 +1,6 @@
 # Hi, ich bin Philipp 👋
 
-📍 **Hachenburg** | 🧱 **Founder von [BASALTBLOCK](https://www.bblok.de)** | 🤖 **baut mit Agenten**
+📍 **Hachenburg** | 🧱 **[BBLOK](https://www.bblok.de)** | 🤖 **baut mit Agenten**
 
 B2B-Performance-Marketing als System: Google Ads, Tracking, Conversion-Optimierung.
 Darunter eine eigene AI-Infrastruktur, die den Laden am Laufen hält.
@@ -18,7 +18,7 @@ Darunter eine eigene AI-Infrastruktur, die den Laden am Laufen hält.
 ## Woran ich baue
 
 - 🧱 **[BASALTBLOCK](https://www.bblok.de)** - Performance-Marketing für B2B: Google Ads, GA4/GTM-Tracking, Conversion-Optimierung
-- 🧠 **Personal OS** - ein Markdown-Workspace als Single Source of Truth, orchestriert von Coding-Agenten: Workflows, Reporting, Automatisierung
+- 🧠 **_os** - ein Markdown-Workspace als Single Source of Truth, orchestriert von Coding-Agenten: Workflows, Reporting, Automatisierung
 - 🌐 **Websites** - Next.js und Astro, eigenes Designsystem, gebaut und deployt von Agenten
 
 Fast alles davon lebt in privaten Repos. Was hier still aussieht, ist nur nicht öffentlich.
