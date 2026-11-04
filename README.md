@@ -6,9 +6,7 @@ B2B-Performance-Marketing als System: Google Ads, Tracking, Conversion-Optimieru
 Basierend auf einer leichtgewichtigen AI-Infrastruktur.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white)
 ![GA4](https://img.shields.io/badge/-GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 ![Tag Manager](https://img.shields.io/badge/-Tag%20Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
