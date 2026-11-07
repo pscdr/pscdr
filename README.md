@@ -28,11 +28,4 @@ Dafür verbinde ich Fachwissen, Werkzeuge und AI-Agenten in einem persönlichen 
 | Werkstatt · `_werkstatt` | Platz für Entwürfe, Experimente und Arbeitsmappen; die Inhalte sind vorübergehend und entbehrlich |
 | Studio · `_studio` | Website und Anwendungen: visuelle Ansichten auf Markdown und Daten aus angebundenen Systemen |
 
-**Zusammenspiel**
-
-- `_os` ist der gemeinsame Sammelordner für AI, Notizbuch und Werkstatt
-- AI nutzt das Wissen im Notizbuch und die angebundenen Werkzeuge; Entwürfe entstehen in der Werkstatt
-- Dauerhaftes Wissen und benötigte Unterlagen bleiben im Notizbuch; Studio macht Inhalte im Browser zugänglich
-- AI und Notizbuch haben eigene private Repositories; Studio wird direkt auf GitHub gepflegt
-
 **[bblok.de](https://www.bblok.de)** · [LinkedIn](https://www.linkedin.com/in/pscdr/) · [brief@bblok.de](mailto:brief@bblok.de)
